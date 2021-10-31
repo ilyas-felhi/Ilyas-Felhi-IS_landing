@@ -12,3 +12,8 @@
 	font-weight: lighter;
 	margin-bottom: 40px;
 }
+@media (max-width: 960px) {
+  .banner {
+    width: 960px;
+  }
+}
